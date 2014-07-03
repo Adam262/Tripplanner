@@ -1,8 +1,9 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
+.container {
+  width: 80%; }
 
-a {
-  color: #00B7FF;
-}
+.header_bar {
+  margin: 100px 0 0 0; }
+
+#map_canvas {
+  height: 500px;
+  background-color: #ccc; }
