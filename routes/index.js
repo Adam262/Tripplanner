@@ -20,6 +20,8 @@ router.get('/', function(req, res) {
   });
 });
 
+
+
 // /*Zeke's alternative module way*/
 // router.get('/', [
 //   function(req,res,next) {
